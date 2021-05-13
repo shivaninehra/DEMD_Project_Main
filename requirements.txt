@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-fastapi
-uvicorn
-numpy
-matplotlib
-pandas
-scikit-learn
-=======
 fastapi
 uvicorn
 numpy
@@ -15,4 +7,3 @@ scikit-learn
 gunicorn
 uvloop
 httptools
->>>>>>> 3916701 (Fourth Commit)
