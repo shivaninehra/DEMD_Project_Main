@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #library imports 
 import uvicorn
 from fastapi import FastAPI
@@ -100,7 +99,3 @@ def Pulsar_Star(data:PulsarStars):
 #5. Run the API with uvicorn
 # will run on http://127.0.0.1:8000
 if __name__ == "__main__":
-    uvicorn.run(app,host='0.0.0.0',port=5000)
-
->>>>>>> 3916701 (Fourth Commit)
-#uvicorn app:app --reload
